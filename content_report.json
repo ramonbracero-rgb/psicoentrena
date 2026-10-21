@@ -1,0 +1,21 @@
+{
+  "version": "v8",
+  "audit": {
+    "cards_total": 550,
+    "subjects": {
+      "Psicopatología II": 100,
+      "Condicionamiento, Motivación y Emoción": 120,
+      "Fundamentos de Neuropsicología": 60,
+      "Psicología del Lenguaje": 110,
+      "Escuelas Psicoterapéuticas I": 80,
+      "Psicología de los Grupos": 80
+    },
+    "method": "Se comprobaron asignatura/tema/página de referencia y presencia de pregunta, respuesta y fuente en las 550 tarjetas. El contenido procede de fragmentos de texto extraídos; no se afirma validación académica manual de cada respuesta.",
+    "known_caveat": "Las tarjetas generadas a partir de fragmentos pueden ser demasiado literales o poco útiles como pregunta-respuesta. Contrastar con el PDF fuente antes del examen.",
+    "fixes": [
+      "Modo oscuro/claro con preferencia guardada localmente",
+      "Tema 5 de Psicología del Lenguaje corregido a Producción del lenguaje",
+      "Caché PWA actualizada a v8"
+    ]
+  }
+}

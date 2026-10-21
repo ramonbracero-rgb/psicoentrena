@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "PsicoEntrena · Biblioteca de Psicología",
+  "short_name": "PsicoEntrena",
+  "description": "Juego de aprendizaje de Psicología con cartas, asociaciones y repasos espaciados.",
+  "lang": "es-ES",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f5fa",
+  "theme_color": "#101a32",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
